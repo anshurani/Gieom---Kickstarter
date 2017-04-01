@@ -1,0 +1,43 @@
+.project {
+	border: 1px solid #e6e6e6;
+	margin: 20px;
+	padding: 10px;
+	position: relative;
+}
+.project_details {
+	font-family: Arial;
+}
+.title {
+	color:blue;
+}
+.next_page {
+	position: absolute;
+	right:2rem;
+	font-size: 4rem;
+	bottom: 4rem;
+}
+#tags {
+	display: none;
+	float:left;
+	/*margin-top:3rem;*/
+}
+.fa.fa-search {
+	font-size: 35px;
+}
+h2 {
+	width:40%;
+	float:left;
+}
+.search_icon {
+	    float: right;
+    /*margin-right: 30rem;*/
+    font-size: 20px;
+    margin-top: 3rem;
+}
+
+.header {
+	height:80px;
+	padding:20px;
+	/*width:70%;*/
+	/*font-size: 30px;*/
+}
